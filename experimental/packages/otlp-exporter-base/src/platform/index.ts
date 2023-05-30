@@ -22,4 +22,3 @@ export {
   OTLPExporterNodeConfigBase,
   CompressionAlgorithm,
 } from './node';
-export { OTLPExporterBrowserBase, sendWithXhr } from './browser';
